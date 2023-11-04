@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://rhodeislandstateparks.reserveamerica.com/camping/fishermens-memorial-state-park/r/campgroundDetails.do?contractCode=RI&parkId=252611",
+    "startDate": "10/03/2024",
+    "lengthOfStay": "5",
+    "sitesArray": ["001", "002", "003", "004", "005", "006", "007", "008", "009", "010", "011", "012", "013", "014", "015"],
+    "email": "",
+    "password": ""
+}
